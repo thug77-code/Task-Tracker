@@ -12,7 +12,7 @@ For those who are beginning their programming journey, I highly recommend paying
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/thug77-code/Task-Tracker.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
